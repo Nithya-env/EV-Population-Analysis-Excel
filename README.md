@@ -30,3 +30,11 @@ The dataset contains 150,482 records and 17 columns, including:
 
 ## Project Objective
 To transform raw electric vehicle data into meaningful insights through an interactive Excel dashboard.
+
+## Dataset Source
+
+The dataset used in this project was obtained from Kaggle.
+
+**Source:** [Electric Vehicle Population Dataset](https://www.kaggle.com/datasets/yashusinghal/electric-vehicle-population-dataset)
+
+The dataset contains information about electric vehicle population, manufacturers, models, model years, electric ranges, and geographical locations.
