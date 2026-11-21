@@ -38,3 +38,11 @@ The dataset used in this project was obtained from Kaggle.
 **Source:** [Electric Vehicle Population Dataset](https://www.kaggle.com/datasets/yashusinghal/electric-vehicle-population-dataset)
 
 The dataset contains information about electric vehicle population, manufacturers, models, model years, electric ranges, and geographical locations.
+
+## Dashboard Preview
+
+![Electric Vehicle Dashboard](dashboard.jpg)
+
+## Project Files
+- excel_project.xlsx – Interactive Excel Dashboard
+- dashboard.jpg – Dashboard Screenshot
